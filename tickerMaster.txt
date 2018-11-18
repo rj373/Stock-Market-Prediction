@@ -1,0 +1,6 @@
+AAPL
+GE
+MSFT
+YHOO
+FB
+
